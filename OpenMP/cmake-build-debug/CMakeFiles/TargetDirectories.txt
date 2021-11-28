@@ -1,0 +1,3 @@
+C:/Users/Tango/Desktop/Final_parallel/cmake-build-debug/CMakeFiles/Final_parallel.dir
+C:/Users/Tango/Desktop/Final_parallel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tango/Desktop/Final_parallel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
