@@ -1,4 +1,0 @@
-"C:\Program Files (x86)\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Tango\Desktop\Final_parallel
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/Tango/Desktop/Final_parallel/cmake-build-debug
