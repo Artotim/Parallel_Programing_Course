@@ -1,0 +1,3 @@
+C:/Users/Tango/Final/cmake-build-debug/CMakeFiles/Final.dir
+C:/Users/Tango/Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tango/Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir

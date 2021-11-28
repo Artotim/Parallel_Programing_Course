@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Tango/Final/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sparseKMeans.h
+C:/Users/Tango/Final/sparseKMeans.h
+matrix_array_routines.h
+C:/Users/Tango/Final/matrix_array_routines.h
+read_write_routines.h
+C:/Users/Tango/Final/read_write_routines.h
+
+C:/Users/Tango/Final/matrix_array_routines.h
+
+C:/Users/Tango/Final/read_write_routines.c
+stdlib.h
+-
+string.h
+-
+read_write_routines.h
+C:/Users/Tango/Final/read_write_routines.h
+
+C:/Users/Tango/Final/read_write_routines.h
+stdio.h
+-
+time.h
+-
+structs.h
+C:/Users/Tango/Final/structs.h
+
+C:/Users/Tango/Final/sparseKMeans.h
+structs.h
+C:/Users/Tango/Final/structs.h
+
+C:/Users/Tango/Final/structs.h
+
